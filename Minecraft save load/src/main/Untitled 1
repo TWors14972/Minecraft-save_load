@@ -1,0 +1,19 @@
+TODO
+
+Add multi-select options:
+send to zip (replaces save with zip)
+copy to zip (leaves save unzipped, but makes zipped copy)
+copy unzip (creates a copy and unzips it, leaving the zipped version)
+unzip (unzips original save)
+delete (completely deletes selected item(s), replace old save feature)
+
+Replace delete, only use 1 button to accept (Save under save, Delete under delete, etc.)
+
+Use drop-down list instead of radio buttons, have internal menu?
+
+SINGLE SELECT
+Save
+Load
+
+MULTI-SELECT
+...
